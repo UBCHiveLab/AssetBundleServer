@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4264873126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67fde356dd41e1c111eb5155193c1915
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb989302a88a9c8bd5b6ef779b6b04a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Organs/Heart_Diseased.prefab
+Dependencies: []
